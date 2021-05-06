@@ -21,7 +21,7 @@ while run:
 
     print("This is a python programme which is used to manage a SDC database.")
     print("Methods:")
-    print("1 -> create a new note;")
+    print("1 -> add a new note;")
     print("2 -> edit a note;")
     print("3 -> delete a note")
     print("4 -> information about SDC")
